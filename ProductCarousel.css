@@ -1,0 +1,19 @@
+/* ProductCarousel.css */
+.carousel {
+    text-align: center;
+    border: 2px solid #ccc;
+    padding: 10px;
+    border-radius: 10px;
+    background: #f9f9f9;
+    margin: 20px 0; /* Margin between carousel and chart */
+  }
+  
+  .carousel-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 10px;
+  }
+  
+  .carousel-info {
+    margin-top: 10px;
+  }
